@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\KelimeTahminOyunu\bin\Debug\net9.0\KelimeTahminOyunu.exe
+C:\Users\User\Desktop\KelimeTahminOyunu\bin\Debug\net9.0\KelimeTahminOyunu.deps.json
+C:\Users\User\Desktop\KelimeTahminOyunu\bin\Debug\net9.0\KelimeTahminOyunu.runtimeconfig.json
+C:\Users\User\Desktop\KelimeTahminOyunu\bin\Debug\net9.0\KelimeTahminOyunu.dll
+C:\Users\User\Desktop\KelimeTahminOyunu\bin\Debug\net9.0\KelimeTahminOyunu.pdb
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.AssemblyInfo.cs
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.dll
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\refint\KelimeTahminOyunu.dll
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.pdb
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\KelimeTahminOyunu.genruntimeconfig.cache
+C:\Users\User\Desktop\KelimeTahminOyunu\obj\Debug\net9.0\ref\KelimeTahminOyunu.dll
